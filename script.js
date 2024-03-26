@@ -7,6 +7,7 @@ $("load", function () {
     elemekFormazasa1();
     esemenyKezeles1();
     esemenyKezeles2();
+    esemenyKezeles3();
     esemenyKezeles4();
 });
 
